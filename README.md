@@ -143,3 +143,5 @@ The game includes:
 **Ashish Kumar Prajapati**
 
 ---
+
+<img width="1672" height="941" alt="Ping_pong_game" src="https://github.com/user-attachments/assets/0f614feb-d4bb-4f65-bfa5-0dd2ba5378b0" />
