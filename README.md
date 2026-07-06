@@ -1,4 +1,4 @@
-# 🏓 Ping Pong – Color & Score Sync (Python + Pygame)
+# 🏓 Ping Pong Game
 
 ### Smooth Gameplay • Color-Changing Ball • Synced Score • AI Opponent
 
@@ -83,7 +83,7 @@ pip install pygame
 ### **3️⃣ Clone the Repository**
 
 ```bash
-https://github.com/codertheashish/Ping_pong_game.git
+https://github.com/codertheashish/Ping_Pong_Game
 ```
 
 ### **4️⃣ Run the Game**
