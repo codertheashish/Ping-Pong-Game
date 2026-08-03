@@ -142,6 +142,14 @@ The game includes:
 
 **Ashish Kumar Prajapati**
 
+- GitHub :
+[codertheashish](https://github.com/codertheashish)
+- LinkedIn :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
 ---
+
+⭐ If you like this portfolio, don't forget to give it a star on GitHub.
 
 <img width="1672" height="941" alt="Ping_pong_game" src="https://github.com/user-attachments/assets/0f614feb-d4bb-4f65-bfa5-0dd2ba5378b0" />
