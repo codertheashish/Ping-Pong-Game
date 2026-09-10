@@ -83,7 +83,7 @@ pip install pygame
 ### **3️⃣ Clone the Repository**
 
 ```bash
-https://github.com/codertheashish/Ping_Pong_Game
+https://github.com/codertheashish/Ping_Pong_Game.git
 ```
 
 ### **4️⃣ Run the Game**
